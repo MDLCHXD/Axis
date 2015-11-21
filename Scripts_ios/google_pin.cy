@@ -1,0 +1,1 @@
+[UIApp.keyWindow.rootViewController userWasAuthenticated]

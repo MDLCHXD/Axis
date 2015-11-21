@@ -1,0 +1,14 @@
+NetSPI
+https://www.netspi.com/about/recognition-and-certifications
+
+RedSpin
+https://www.redspin.com/penetration-testing/
+
+Accuvant
+http://www.accuvant.com/labs/research
+
+Alert Logic 
+https://www.alertlogic.com
+
+veracode blog(interesting)
+http://www.veracode.com/blog/2007/02/better-criteria-for-selecting-pen-test-consultants/

@@ -1,0 +1,201 @@
+Things to make by  for startup weeked:
+
+FRIDAY
+Begin: Axis Logo
+
+Start Website (Wordpress or SW given)
+
+Site Topic Sections:
+Post Engagement
+Reconn
+Vulns
+Exploits
+Post Exploits
+Report
+IT/User Summary
+
+Mobile Info:
+Print methods - cycript 
+Visible Views - cycript 
+theos 
+wiki for introspy
+
+	For Apps:
+	 Google Drive > total pin bypass
+	 Clef
+	 Audible
+
+Start Git Repo or git lab:
+
+How to organize git repo:
+By Target > Recon > OS Used > Vulns > Exploit Result > Post Exploitation > IT Report > User Top Level Report
+
+Network Tool Files (per Target):
+Nmap Scans
+Nessus Scans
+Exploit usage
+
+Video:
+Shoot Google Bypass Demostration
+
+Research:
+Make and Pass Out Security Survey 
+
+
+
+
+SATURDAY
+
+Morning:
+
+Research:
+Begin analyzing survey data
+-Form stats about results
+
+Pentest Company Business model
+
+Site:
+Description of Each Section
+
+Repo per Paltform and Target (separate): 
+Add Cycript Scripts
+Add Network Scans
+
+Afternoon:
+FOOD!!!
+
+Review of all compnents
+
+Crash Course of Hacking both ethical and not
+-mobile 
+-ios
+-android
+
+Network:
+-target
+-recon
+-vuln
+-exploit
+-post exploit
+-report
+
+Browser:
+Replay attack
+XSS Attacks
+
+What it means to be ethical:
+-black grey white hat
+
+Discloures:
+-Responsible
+-Immature
+-What, and when to say 'it'
+
+Extend Business Model
+Demographics
+
+Begin Reconn of other teams (if aksed and given written consent through survey)
+
+Evening:
+
+Research: Add data to site
+
+Business Model:
+-finish verbal write up
+-imaging?
+-Pricing
+-How and when we get paid
+-post to site
+
+Site:
+Survey Stats
+Business Model
+
+Video:
+Import video to demo machine
+
+Demo:
+Intro
+-who we are
+-what we do 
+-segue to video
+Video 2 min or less
+-Describe Complete Audit process
+-Post Engagement
+-Consent
+-Reconn
+-Vulns
+-Exploit
+-Post Exploit
+-Reports
+  IT/User
+Business Model  
+Stats of survey
+Show site
+-Contacts consult to get quote
+-prices
+Acheivable certs for team
+-CEH
+-CPT
+What our next steps are
+-routine to continue company progress
+-marketing
+-accquire funds for certs
+-recruitment
+-polish product
+-begin consulting 
+
+End Pentest of teams
+Write Reports
+
+FOOD?
+
+SUNDAY
+
+FOOD?
+
+Morning
+
+Full Review of:
+Site
+Repo
+Demo 
+Logo
+Info on setting up Pentest environments for every team member
+virtal box
+iso's
+kali linux
+windows 8
+nessus
+
+Sources for mobile
+jb'n device
+openSSH
+cycript
+snoop it
+inalyzer
+introspy
+theos
+Review Demo
+REVIEW DEMO
+Review DEMO
+REVIEW DEMO 
+REVIEW DEMO
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+http://www.csoonline.com/article/2126101/access-control/penetration-tests--10-tips-for-a-successful-program.html
+
+ones to look at/ emulate 
+https://www.securitymetrics.com/penetration-testing
+
+Our mission:
+
+tier levels
+
+Pentest Steps:
+pre Engagement
+	scope- ip’s, devices, types of attacks,
+	testing window	
+	contact info for reporting
+	Consent- written
+	Payment(maybe no ton site)
+
+Information gathering
+	IP’s
+	servers
+	ports
+	services
+
+Vulnerability analysis
+	Ip’s
+	Port services
+	OS versions
+
+Exploitation
+	use vuln to break in
+	pivots
+
+Post Exploitation
+	data of what value is at risk
+
+Reporting
+	Executive summary
+	Background
+	Overall POsture
+	Risk profile
+	General findings
+	Recommendation Summary
+	Road map for new implementation
+	Technical Report
+		intro
+		info gathering
+		vuln assessment
+		exploits
+		post exploit
+		risk 
+		conclusion
+
+Contact
+

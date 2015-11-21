@@ -1,0 +1,21 @@
+
+https://www.redspin.com/penetration-testing/application-security-testing.php
+
+What Axis can provide now.
+
+Mobile:
+iOS: runtime injection, keychain viewing, code obfuscation checks, permanent code injection, ssl pinning
+
+Android: runtime injection, reverse engineering apk’s, code obfuscation, ssl pinning
+
+IT Infrastructure: Remote Code execution, brute force attacks, sql injection, man in the middle attacks, port forwarding, phishing, Cross site scripting
+
+Tier One:
+Axis will give a summary of how secure the application is. We will conduct vulnerability scans of both rooted and non rooted devices, then test them manually in each rooted scenario. The full test and report is 5 days in length. 
+
+Tier Two:
+This is our per-release tier. This tier is for the businesses and developers who may have big releases every so often and need to make sure vulnerabilities were not created or uncovered. About to push your latest and greatest creations to production? Axis officials will conduct audits on your currently available release and the following one, then compare differences. This is a 7 day audit.
+
+Tier Three:
+In this tier, we expand to the IT Infrastructure of a company. After gaining an understanding of their products and services, we begin a ten day audit to search for vulnerabilities on the systems we’ve been given consent to check. After the ten days, we give the company technical and non technical reports of our findings. We also provide insight on how to implement fixes to the vulnerabilities. 
+
